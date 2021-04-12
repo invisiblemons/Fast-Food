@@ -1,0 +1,506 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a.btn.btn-outline-white.btn-lg.waves-effect.waves-light:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.footer-copyright.py-3 {
+    background: #0099F3!important;
+}
+
+a.badge.badge-light {
+    padding: 1% 2%;
+    background: transparent!important;
+}
+
+a.badge.badge-light:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.updatee b {
+    margin-left: 31px;
+}
+
+.createFormm input[type="number"] {
+    float: right;
+    width: 65%;
+
+}
+
+.createFormm input[type="text"] {
+    float: right;
+    width: 65%;
+}
+
+h1.error-list {
+    margin-left: 18%;
+}
+
+h4 {
+    margin-left: 18%;
+}
+
+.modal-footer h4 {
+    float: left;
+    font-size: 15px;
+    color: cornflowerblue;
+}
+
+.modal-body {position: initial;}
+
+.dropdown-menu.show {
+    position: fixed;
+    margin-left: 19%;
+    margin-top: -5%;
+}
+
+.dropdown {position: initial;margin-left: 16%;margin-bottom: 4%;}
+
+li.nav-item.dropdown.show {
+    position: relative;
+}
+
+.row.dropdown {margin-left: 3%;}
+
+.updatee label {
+    text-align: left;
+}
+
+.updateForm input {text-align: left;margin-right: 6%;float: right;width: 48%;}
+
+button#removeButton {
+    background-color: #0087F4;
+    border-radius: 3px;
+    color: white;
+    padding: 0.85%;
+    justify-self: left;
+    margin: 2% 0 2% 0%;
+}
+
+button#removeButton:hover {
+    background-color: #1EA5F4;
+}
+
+
+.pagination li.active {
+    background-color: aliceblue;
+    border: solid 2px #E5E5E5;
+}
+
+ul.pagination {
+    justify-content: center;
+}
+
+.modal-content {
+    margin-top: 11%;
+}
+
+.modal-backdrop.fade.show {
+    z-index: 1029;
+}
+
+
+.example {
+    border: solid 1px #E0E0E0;
+    width: 27%;
+    border-radius: 4px;
+    flex: initial;
+    margin-right: 2%;
+    margin-left: 7%;
+}
+
+.example input[type="text"] {
+    border: unset;
+    width: 83%;
+}
+
+.examplePrice button {
+    background-color: unset;
+    border: unset;
+    float: right;
+}
+
+.example button {
+    color: none!important;
+    background-color: unset;
+    border: unset;
+    float: right;
+    padding-left: 9%;
+}
+
+
+.btn-secondary.dropdown-toggle {
+    background-color: #0087F4!important;
+    padding: 3% 6%;
+}
+
+
+
+
+.container .control {
+    margin: 7% 5% 1% 5%;
+}
+
+h3 {font-weight: bold;}
+
+h3.error {
+    margin-left: 19%;
+}
+
+.margitop figure {
+    margin-top: 61px;
+}
+
+.col-xl-4.col-lg-4.col-md-4.col-sm-12 {
+    text-align: center;
+}
+
+
+
+img {
+    max-width: 100%;
+    height: 369px;
+}
+
+.col-xl-4.col-lg-4.col-md-4.col-sm-12.margitop {
+    text-align: center;
+}
+
+
+.mb-4 strong {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.title h2 {
+    margin-top: 9%;
+    font-size: 49px;
+    font-weight: bolder;
+}
+
+.contactus h2 {
+    margin-top: 1%;
+}
+
+strong.blue-text {
+    font-size: 120%;
+}
+
+strong.blackk {
+    font-weight: 700;
+    color: #000404;
+}
+
+.row.titlte {
+    font-size: 60px;
+    line-height: 45px;
+    color: #0B9DF4;
+    font-weight: normal;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    letter-spacing: 0;
+    position: relative;
+    padding: 0 0 10px 0;
+    margin: 0;
+    font-family: inherit;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+.carousel .carousel-control-next-icon {
+    background-image: url(https://img.icons8.com/ios-filled/50/000000/long-arrow-right.png);
+}
+
+.carousel .carousel-control-prev-icon {
+    background-image: url(https://img.icons8.com/ios-filled/50/000000/long-arrow-left.png);
+}
+
+
+button.btn.btn-primary.waves-effect.waves-light {
+    margin-top: 0%;
+    padding: 1%;
+}
+
+.product_detail button.btn.btn-primary.waves-effect.waves-light {
+    padding: 4%;
+}
+
+.col-6 .examplePrice {
+    margin: 12px;
+}
+
+
+input[type="number"] {
+    margin-left: 2%;
+    border: unset;
+    outline: none;
+    width: 35%;
+}
+
+input[type="text"]#username {
+    width: 100%;
+    font-size: 14px;
+}
+
+
+.btn-secondary:not([disabled]):not(.disabled).active, .btn-secondary:not([disabled]):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    background-color: #0087F4!important;
+    padding: 3% 6%;
+}
+
+.btn-secondary.dropdown-toggle:focus, .btn-secondary.dropdown-toggle:hover {
+    background-color: #73D7FF!important;
+}
+
+form.examplePrice {
+    margin-bottom: 26px;
+    border: solid 1px #E0E0E0;
+    border-radius: 4px;
+}
+
+
+
+.social-login {
+    margin-left: 44%;
+}
+
+a.btn.btn-primary.waves-effect.waves-light {
+    margin-left: 41%;
+}
+
+.d-flex.mb-5.align-items-center {
+    margin-top: 0px;
+    height: 4px;
+    margin-bottom: 0px;
+}
+
+
+.about {
+    margin-bottom: 122px;
+}
+
+
+
+/* Required height of parents of the Half Page Carousel for proper displaying carousel itself */
+html,
+body,
+.view {
+    height: 100%; }
+
+/* Half Page Carousel itself*/
+.carousel {
+    height: 50%; }
+.carousel .carousel-inner {
+    height: 100%; }
+.carousel .carousel-inner .carousel-item,
+.carousel .carousel-inner .active {
+    height: 100%; }
+
+/* Adjustment for mobile devices*/
+@media (max-width: 776px) {
+    .carousel {
+        height: 100%; } }
+
+/* Footer color for sake of consistency with Navbar */
+.page-footer {
+    background-color: #929FBA; }
+html,
+body,
+header,
+.carousel {
+    height: 54vh;
+    margin-top: 21px;
+}
+
+@media (max-width: 740px) {
+
+    html,
+    body,
+    header,
+    .carousel {
+        height: 100vh;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+
+    html,
+    body,
+    header,
+    .carousel {
+        height: 100vh;
+    }
+}
+.contactus .title h2 {
+    font-weight: bold;
+    color: #fff;
+    font-weight: 700;
+    font-size: 41px;
+}
+
+
+.contactus {
+    background-color: #0B9DF4;
+    padding: 16px 0px;
+    margin-top: 164px;
+    margin-bottom: 2%;
+}
+.contactus .title {
+    padding-bottom: 0px;   
+    text-align: center;
+}
+
+
+label {
+    color: black;
+    font-weight: 500;
+}
+
+
+.product_img {
+    float: left;
+    width: 100%;
+    min-height: 370px;
+    padding: 25px;
+    position: relative;
+    background: #f3f3f3;
+    display: flex;
+    align-items: center;
+}
+.product_price {
+    font-size: 18px;
+    font-weight: 600;
+    color:  #0B9DF4;
+    margin: 0;
+}
+.center {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.product_detail {
+    background: #fff;
+    border: solid #e1e1e1 1px;
+    width: 80%;
+    margin: -40px 10% 0;
+    position: relative;
+}
+.product_descr {
+    margin: 5px 0 0;
+    padding: 0 10px;
+    line-height: 18px;
+    color: #000;
+    font-weight: 400;
+}
+.product {
+    padding: 0 0 30px;
+}
+.full {
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+.add-bt:hover {
+    color: #000;
+}
+.product:hover .overlay_hover, .product:focus .overlay_hover {
+    opacity: 1;
+    visibility: visible;
+}
+
+.overlay_hover {
+    top: 0;
+    border-radius: 0;
+}
+.text_align_center {
+    text-align: center;
+}
+
+.product_detail {
+    float: left;
+    padding: 20px 5px;
+}
+.overlay_hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, .8);
+    border-radius: 10px;
+    transition: ease all 0.5s;
+    opacity: 0;
+    visibility: hidden;
+    top: 0;
+}
+.add-bt {
+    min-width: 130px;
+    text-align: center;
+    background: #fff;
+    height: 45px;
+    line-height: 46px;
+    color: #0B9DF4;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+    box-shadow: 0 0 10px -8px #000;
+    border-radius: 9px;
+    padding: 0 20px;
+}
+strong {
+    font-weight: 600;
+}
+.error {
+    margin: 4%;
+}
+
+.mainbody {
+    margin-top: 6%;
+}
+.orderHistory {
+    border: 1px solid;
+    margin: 1% 2%;
+    padding: 2% 5%;
+}
+.tm-recommended-place {
+    box-shadow: 0 0 3px rgb(0 0 0 / 15%);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+.tm-recommended-place.carHistory {
+    margin-top: 2%;
+}
+img#order1 {
+    max-width: 100%;
+    width: 19%;
+    height: 50%;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.tm-recommended-img {
+    width: 270px;
+}
+.carHistory .tm-recommended-description-box {
+    padding: 4px;
+}
+.tm-recommended-description-box {
+    padding: 30px;
+    width: 500px;
+}

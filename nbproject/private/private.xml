@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/constants/Constants.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/tblUser/TblUserDAO.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/checkout-page.jsp</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/css/style.css</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/account/LoginGoogleServlet.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/account/LoginServlet.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/home-page.jsp</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/utils/DBUtils.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/utils/GoogleUtils.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/view/LoadItemsServlet.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/cart/CartObject.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/utils/GooglePojo.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/shopping-page.jsp</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/css/style.min.css</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/signin-page.jsp</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/DispatcherServlet.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/META-INF/context.xml</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/web/js/style.js</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/account/LogOutServlet.java</file>
+            <file>file:/D:/Document/HanaShop/HanaShop/src/java/minhdc/servlet/cart/AddProductInCartServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
